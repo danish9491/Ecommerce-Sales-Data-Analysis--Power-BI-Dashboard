@@ -106,5 +106,5 @@ These insights help the business to improve marketing strategies, optimize inven
 ## ✉️ Contact
 
 For any questions, feedback, or collaboration opportunities, please feel free to reach out at:  
-📧 **[daansari7300@gmail.com](mailto:daansari7300@gmail.com)**
+📧 **[daansari7300@gmail.com](daansari7300@gmail.com)**
 
