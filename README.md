@@ -2,13 +2,13 @@
 This repository contains an interactive **Power BI dashboard** designed for **Madhav Ecommerce** to track and analyze online sales across India. The dashboard provides valuable insights into sales performance, customer behavior, product categories, and regional trends to help the store owner make **data-driven decisions** and improve overall business performance.
 
 ## Dashboard Preview
-![Dashboard Preview](https://raw.githubusercontent.com/danish9491/Ecommerce-Sales-Data-Analysis--Power-BI-Dashboard/refs/heads/main/Preview%20Dashboard.png?token=GHSAT0AAAAAACYJA4WJZRBBESCI6NNOH32WZYOY76A)
+![Dashboard Preview](https://raw.githubusercontent.com/danish9491/Ecommerce-Sales-Data-Analysis---Power-BI-Dashboard/refs/heads/main/Preview%20Dashboard.png?token=GHSAT0AAAAAACYJA4WIBFDRR4U2ND5VWCBWZYOXMJA)
 
 ---
 
 ## 🎯 **Objective**
 
-The main goal of this project is to provide Madhav Ecommerce with a powerful tool to:
+The main goal of this project is to provide Madhav Ecommerce with a powerful tool to :
 
 - **Track sales performance** across regions.
 - Analyze **customer behavior** and payment preferences.
@@ -106,5 +106,5 @@ These insights help the business to improve marketing strategies, optimize inven
 ## ✉️ Contact
 
 For any questions, feedback, or collaboration opportunities, please feel free to reach out at:  
-📧 **[daansari7300@gmail.com](daansari7300@gmail.com)**
+📧 **[daansari7300@gmail.com](mailto:daansari7300@gmail.com)**
 
